@@ -1,0 +1,155 @@
+[
+  {
+    "fixture": "tests/fixtures/combat/20261012T015357Z-3bcef2c5-attempt2-00012095.jpg",
+    "source": "data/game/images/20261012T015357Z-3bcef2c5-attempt2-00012095.jpg",
+    "source_sha256": "1dc48caf82732a2d6c8bac942076c25cd4ae26a2d35612b7c3a9b8424aab2ca2",
+    "fixture_sha256": "1dc48caf82732a2d6c8bac942076c25cd4ae26a2d35612b7c3a9b8424aab2ca2",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/combat/20261012T015357Z-3bcef2c5-attempt4-00024902.jpg",
+    "source": "data/game/images/20261012T015357Z-3bcef2c5-attempt4-00024902.jpg",
+    "source_sha256": "133d1669c18e043d010e3e6869979d7c820507586513f26da04c9ee5f435e335",
+    "fixture_sha256": "133d1669c18e043d010e3e6869979d7c820507586513f26da04c9ee5f435e335",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/combat/20261012T015357Z-3bcef2c5-attempt5-00028706.jpg",
+    "source": "data/game/images/20261012T015357Z-3bcef2c5-attempt5-00028706.jpg",
+    "source_sha256": "998d3ddcad300135a18047a93b9bda57f154ab81aa44d05f8ade3ae33411a415",
+    "fixture_sha256": "998d3ddcad300135a18047a93b9bda57f154ab81aa44d05f8ade3ae33411a415",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/combat/20261012T015357Z-3bcef2c5-attempt1-00003001.jpg",
+    "source": "data/game/images/20261012T015357Z-3bcef2c5-attempt1-00003001.jpg",
+    "source_sha256": "1e1a42148957fdb0fc6bb3513e9f899b308b5c023eac3dc9adcaaa6f05af3cc9",
+    "fixture_sha256": "1e1a42148957fdb0fc6bb3513e9f899b308b5c023eac3dc9adcaaa6f05af3cc9",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/combat/20261012T015357Z-3bcef2c5-attempt3-00017000.jpg",
+    "source": "data/game/images/20261012T015357Z-3bcef2c5-attempt3-00017000.jpg",
+    "source_sha256": "e7bc6c6d126a1510e2b2eeb59848111950cdb4f25e10cb0e23686b818c32bb94",
+    "fixture_sha256": "e7bc6c6d126a1510e2b2eeb59848111950cdb4f25e10cb0e23686b818c32bb94",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/combat/20261012T015357Z-3bcef2c5-attempt6-00032651.jpg",
+    "source": "data/game/images/20261012T015357Z-3bcef2c5-attempt6-00032651.jpg",
+    "source_sha256": "ebc8e092e9c5cd460b8551d5ba9db22a530cdbf2800b8c856ef6b817c7f779ca",
+    "fixture_sha256": "ebc8e092e9c5cd460b8551d5ba9db22a530cdbf2800b8c856ef6b817c7f779ca",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/combat/20261012T015357Z-3bcef2c5-attempt1-00001893.jpg",
+    "source": "data/game/images/20261012T015357Z-3bcef2c5-attempt1-00001893.jpg",
+    "source_sha256": "3e945298ded58c9376f803c57126e021f7b8b6da16532c37b221cbe4653a7e1e",
+    "fixture_sha256": "3e945298ded58c9376f803c57126e021f7b8b6da16532c37b221cbe4653a7e1e",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/ready.png",
+    "source": "reports/starfall-frame.png",
+    "source_sha256": "54e2702b55e1c459ae17037186e92b1443c8d7da7d938185f03bad9e260bc1c3",
+    "fixture_sha256": "27cbeb89f50158673d1d0766031df5379f0e35b1de91d401e3472bc918745e92",
+    "regions": [
+      [
+        310,
+        0,
+        950,
+        120
+      ],
+      [
+        720,
+        280,
+        950,
+        430
+      ]
+    ],
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/ready-with-return.png",
+    "source": "reports/current-page.png",
+    "source_sha256": "bf6f867803945ed001eb7df71218521b74a800e18638320feb318e86a56dfc64",
+    "fixture_sha256": "00814348fa5e9fa27933a2196e1f7bbe8b428cfe042f6a55185a8cb098930612",
+    "regions": [
+      [
+        310,
+        0,
+        950,
+        120
+      ],
+      [
+        720,
+        280,
+        950,
+        430
+      ]
+    ],
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/gameplay.png",
+    "source": "reports/challenge-after12s.png",
+    "source_sha256": "2409307b1aa101edcdb6c9d10f0bac5709c4d07926e214d54c79c007217ec581",
+    "fixture_sha256": "2409307b1aa101edcdb6c9d10f0bac5709c4d07926e214d54c79c007217ec581",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/powerup-hearts.png",
+    "source": "reports/health-events/1791766265065633800-one_heart/trigger.png",
+    "source_sha256": "2c0548d92b27e8a23db0501c0d9db21a7febd2445b2204e7fc9275215cadc80e",
+    "fixture_sha256": "2c0548d92b27e8a23db0501c0d9db21a7febd2445b2204e7fc9275215cadc80e",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/upper-hearts.png",
+    "source": "reports/health-events/1791767134510931900-health_unreadable/trigger.png",
+    "source_sha256": "100ff4879a5a64e3b3ebcbe72acb0b40df574cec96029964e4619c503d668fac",
+    "fixture_sha256": "100ff4879a5a64e3b3ebcbe72acb0b40df574cec96029964e4619c503d668fac",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/lobby/main.png",
+    "source": "reports/health-events/1791765595708144500-calibration_complete/after-exit.png",
+    "source_sha256": "854692b8edfe3acaf37ddeaca7687e074fb4ae17b810550925b7a62e67e6cdb4",
+    "fixture_sha256": "cc2f54b2c8ab420e0a35bc29e87da49610645dffc875f038afa72eecd7db71ec",
+    "regions": [
+      [
+        270,
+        330,
+        445,
+        385
+      ]
+    ],
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/transition.jpg",
+    "source": "data/game/images/20261012T011902Z-12c37b4f-ep2-00004481.jpg",
+    "source_sha256": "f475d73b60bfa48c2e6fdcc0e0dfbba8ed2e4f8497ee620b57273ed33601802f",
+    "fixture_sha256": "f475d73b60bfa48c2e6fdcc0e0dfbba8ed2e4f8497ee620b57273ed33601802f",
+    "regions": null,
+    "purpose": "regression_test_only"
+  },
+  {
+    "fixture": "tests/fixtures/paused.jpg",
+    "source": "data/game/images/20261012T011902Z-12c37b4f-ep5-00008473.jpg",
+    "source_sha256": "bd68f4faca7e64b7cc91e1292b7dcd78b52f1bc42d526236a88976011191a2c4",
+    "fixture_sha256": "bd68f4faca7e64b7cc91e1292b7dcd78b52f1bc42d526236a88976011191a2c4",
+    "regions": null,
+    "purpose": "regression_test_only"
+  }
+]
