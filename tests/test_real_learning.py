@@ -95,6 +95,6 @@ def test_template_search_preserves_players_whose_sprite_overlaps_bounds():
     from starfall.perception import create_detector
 
     cfg = load_config("configs/phone.yaml")
-    image = cv2.imread("reports/challenge-after12s.png")
+    image = cv2.imread("tests/fixtures/gameplay.png")
     cfg["bounds"][1] = 0.19  # Head above boundary, center still inside.
     assert any(d.kind == "player" for d in create_detector(cfg).detect(image))
